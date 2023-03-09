@@ -4,7 +4,7 @@
 ## Wiring Diagram
 ![](./logic_not_wd.png)
 ## IRL Circut
-
+![](./logic_not_rl.jpg)
 ## Demonstration
 https://user-images.githubusercontent.com/113391567/223891447-4218629a-2095-40b2-9be5-734db0bb426a.mp4
 
@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/113391567/223891447-4218629a-2095-40b2
 ## Wiring Diagram
 ![](./logic_and_wd.png)
 ## IRL Circut
-
+![](./logic_and_rl.jpg)
 ## Demonstration
 https://user-images.githubusercontent.com/113391567/223891552-ea61e9cd-a9a5-4bbf-8dc7-edc8c5a7853f.mp4
 
@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/113391567/223891552-ea61e9cd-a9a5-4bbf
 ## Wiring Diagram
 ![](./logic_or_wd.png)
 ## IRL Circut
-
+![](./logic_or_rl.jpg)
 ## Demonstration
 https://user-images.githubusercontent.com/113391567/223891618-452d93b1-3924-4225-94f7-8113059288ba.mp4
 
@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/113391567/223891618-452d93b1-3924-4225
 ## Wiring Diagram
 ![](./logic_nor_wd.png)
 ## IRL Circut
-
+![](./logic_nor_rl.jpg)
 ## Demonstration
 https://user-images.githubusercontent.com/113391567/223891667-dc52618d-364a-419a-886d-e380520a2b3a.mp4
 
