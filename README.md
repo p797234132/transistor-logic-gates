@@ -87,7 +87,7 @@ An SR latch is a latch which can store one bit of volatile memory. It has two
 input, one to set the bit and one to reset the bit. When the set input is on,
 the bit becomes a one. When the reset input is on, the bit becomes a zero.  
 
-The capacitors should have at lease 10 mF of capacitance.
+The capacitors should have at least 10 mF of capacitance.
 ## Circut Board
 ![](./logic_sr_latch_cb.png)
 ## Wiring Diagram
